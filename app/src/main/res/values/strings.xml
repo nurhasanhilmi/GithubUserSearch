@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="favorite_user_menu">Favorite User</string>
+    <string name="favorite_text">Favorite</string>
+    <string name="unfavorite_text">Unfavorite</string>
+    <string name="group_icon">group icon</string>
+    <string name="no_followers">%1$s doesn’t have any followers yet.</string>
+    <string name="no_following">%1$s  isn’t following anybody.</string>
+</resources>
